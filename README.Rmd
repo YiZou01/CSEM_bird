@@ -1,0 +1,17 @@
+# Summary
+
+This is data from: "Citizen-science and empirical field data yield limited agreement about avian diversity" by Zou et al.
+
+Archived by Yi Zou ([yi.zou\@xjtlu.edu.cn](mailto:yi.zou@xjtlu.edu.cn){.email})
+
+# Description
+
+The dataset contains 4 documents:
+
+1.  "CSdata5km.csv" is the citizen-science bird data derived from the China Bird Reporting Center (www.birdreport.cn)
+
+2.  "EMdata.csv" is the empirical survey data in 10 nature reserves.
+
+3.  "Analysis.R" is the R code for the main analysis, generating the Figure 2 and Figure 3.
+
+4.  "Appendix1.R" is the R code for the appendix analysis, generating the Appendix figure.
